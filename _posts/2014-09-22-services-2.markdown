@@ -5,8 +5,6 @@ category: Services
 title: 토익사이트 프로젝트
 description: |
 ---
-  개발기간 : 2020.02.24 ~ 2020.04.24                       
----                                 
-  [Jsp 모델2 구조로 구현한 인터넷 토익 수강 사이트 제작](http://join.deathtothestockphoto.com/)
----	                                     
+  개발기간 : 2020.02.24 ~ 2020.04.24                         
+  [Jsp 모델2 구조로 구현한 인터넷 토익 수강 사이트 제작](http://join.deathtothestockphoto.com/)	                                     
  #Java#Eclipse#Mysql#Mybatis#Javascript
