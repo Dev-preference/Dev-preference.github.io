@@ -2,7 +2,7 @@
 layout: default
 img: market.png
 category: Services
-title: 중고거래사이트 프로젝트
+title: 중고거래사이트
 description: |
 ---
 개발기간 : 2020.02.24 ~ 2020.04.24          
