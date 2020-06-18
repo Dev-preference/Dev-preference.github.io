@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 스프링 부트와 AWS로 구현한 웹 서비스 기획중입니다.
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  aws,소셜로그인,빌드/테스트/배포자동화를 활용한 사이트
