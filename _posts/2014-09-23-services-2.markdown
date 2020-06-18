@@ -6,7 +6,5 @@ title: 중고거래사이트 프로젝트
 description: |
 ---
 개발기간 : 2020.02.10 ~ 2020.02.24          
----
 [스프링프레임워크를 이용한 중고물품거래 사이트 제작](http://join.deathtothestockphoto.com/)
----
 #Java#Eclipse#Oracle#Mybtis#Git#Spring
