@@ -1,8 +1,12 @@
 ---
 layout: default
-img: phones.png
+img: market.png
 category: Services
 title: 중고거래사이트 프로젝트
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+개발기간 : 2020.02.10 ~ 2020.02.24          
+---
+[스프링프레임워크를 이용한 중고물품거래 사이트 제작](http://join.deathtothestockphoto.com/)
+---
+#Java#Eclipse#Oracle#Mybtis#Git#Spring
