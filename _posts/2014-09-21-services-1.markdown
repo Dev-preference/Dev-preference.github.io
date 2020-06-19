@@ -6,4 +6,4 @@ title: 스프링 부트와 AWS로 구현한 웹 서비스 진행중입니다.
 description: |
 ---
   [빌드/테스트/배포자동화를 활용한 사이트](https://github.com/Dev-preference/single)
- #Java#IntelliJ#Spring#AWS
+ #Java#IntelliJ#Spring#AWS#JUnit
